@@ -62,6 +62,7 @@ aside {
 				width: 10px;
 				height: 10px;
 				background: darkgray;
+				margin: 0 2px;
 			}
 			.asideSlider-pagination li.active a {
 				background: blue;
